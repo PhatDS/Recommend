@@ -1,9 +1,9 @@
 # Video_game_Recommend
 # Recommendation Systems
 
-‎ sử dụng Machine Learning để xây dựng Khuyến nghị Systesm‎
+‎ Using Machine Learning to build Recommendation Systesm‎
 
-- ‎**Lý thuyết**‎‎: Ml  Công thức, Dự đoán  Xếp hạng, Similiarity.
+- ‎**Lý thuyết**‎‎: Ml  Formulation , Prediction vs.Ranking , Similiarity.
 - ‎**Paradigms**‎‎: Content-Based , Collaborative filtering (User Based & Item Based) ‎
 - ‎**Dữ liệu**‎‎: The dataset contains 1.324.753 ratings 50210 video_games made by 826767 users.
 ‎
